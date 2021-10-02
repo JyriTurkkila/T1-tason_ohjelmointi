@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ravintola</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body
+
+<div class="kehys">
+    <div class="header">
+        <img src="header_pohja_1280x500px.png" width=1024px alt="Herkkulaari">
+        <div class="logo">
+        <img src="jyrin_herkkulaari_logo_white.png" alt="Tervetuloa Herkkulaariin!">
+        </div>
+    </div>
+</div>
+
+    <nav>
+      <ul>
+        <li><a href="">valikko</a></li>
+        <li><a href="">valikko</a></li>
+      </ul>
+    </nav>
+    <div class="box">
+      <div class="mainos">
+        <p>tekstiä</p>
+      </div>
+      <div class="mainos">
+        <p>tekstiä</p>
+      </div>
+      <div class="mainos">
+        <p>tekstiä</p>
+      </div>
+    </div>
+  <section>
+    <aside>
+      <article>
+        <p></p>
+      </article>
+    </aside>
+      <article>
+        <p></p>
+      </article>
+    </section>
+    <footer>
+      <p></p>
+    </footer>
+  </body>
+</html>

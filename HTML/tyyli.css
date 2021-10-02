@@ -1,0 +1,30 @@
+body {
+
+  background-color: magenta;
+}
+
+img {
+  clear: both;
+  float: left;
+  margin: 20px;
+}
+
+.kuva1 {
+  clear: both;
+  float: left;
+  margin: 20px;
+}
+
+.kuva2 {
+  clear: both;
+  float: right;
+  margin: 20px;
+}
+
+p {
+  font-size: 26px;
+}
+
+h1 {
+  font-size: 44px;
+}

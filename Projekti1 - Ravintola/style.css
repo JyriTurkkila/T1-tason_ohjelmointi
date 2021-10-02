@@ -1,0 +1,127 @@
+.container {
+  text-align: center;
+  position: relative;
+  top: 0;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  border: 0;
+}
+
+.header {
+  position: relative;
+  top: 0;
+  bottom: 0;
+}
+
+.logo {
+  position: absolute;
+  top: 10px;
+  left: 18%;
+}
+
+.chef {
+  position: absolute;
+  bottom: 100px;
+  left: 16px;
+}
+
+.navpalkki {
+  position: absolute;
+  top: 250px;
+  left: 248px;
+  width: 1024px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #873e23;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+    background-color: #DDA517;
+}
+
+
+
+
+h1
+{
+  color: red;
+  border: 1px solid black;
+  padding: 100px;
+  margin: 1% 20%;
+
+}
+
+.box
+{
+  margin: 0% 0%;
+}
+
+.mainos
+{
+  width: 300px;
+  height: 250px;
+  float: left;
+  border-radius: 20px;
+  margin: 0% 0%;
+  background-color: red;
+}
+
+aside
+{
+
+float: right;
+margin:  ;
+}
+
+aside article
+{
+  width: 300px;
+  height: 600px;
+  background-color: blue;
+  border-radius: 20px;
+  float: right;
+  margin:  ;
+}
+
+section
+{
+width: auto;
+height: 600px;
+background-color: lightgrey;
+border-radius: 20px;
+margin: 5% 10% 1% 10%;
+}
+
+article
+{
+  width: 70%;
+  height: 600px;
+  background-color: blue;
+  border-radius: 20px;
+  float: left;
+  margin:  ;
+}
+
+footer
+{
+height: 100px;
+border: 1px solid black;
+margin: 1% 20%;
+}
