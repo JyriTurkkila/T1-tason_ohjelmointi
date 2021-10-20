@@ -2,6 +2,7 @@
   text-align: center;
   position: relative;
   top: 0;
+  height:1000px;
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
   border: 0;
@@ -54,74 +55,4 @@ li a {
 
 li a:hover {
     background-color: #DDA517;
-}
-
-
-
-
-h1
-{
-  color: red;
-  border: 1px solid black;
-  padding: 100px;
-  margin: 1% 20%;
-
-}
-
-.box
-{
-  margin: 0% 0%;
-}
-
-.mainos
-{
-  width: 300px;
-  height: 250px;
-  float: left;
-  border-radius: 20px;
-  margin: 0% 0%;
-  background-color: red;
-}
-
-aside
-{
-
-float: right;
-margin:  ;
-}
-
-aside article
-{
-  width: 300px;
-  height: 600px;
-  background-color: blue;
-  border-radius: 20px;
-  float: right;
-  margin:  ;
-}
-
-section
-{
-width: auto;
-height: 600px;
-background-color: lightgrey;
-border-radius: 20px;
-margin: 5% 10% 1% 10%;
-}
-
-article
-{
-  width: 70%;
-  height: 600px;
-  background-color: blue;
-  border-radius: 20px;
-  float: left;
-  margin:  ;
-}
-
-footer
-{
-height: 100px;
-border: 1px solid black;
-margin: 1% 20%;
 }

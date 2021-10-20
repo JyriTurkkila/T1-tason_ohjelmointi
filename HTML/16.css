@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Lobster&family=Permanent+Marker&family=Qahiri&family=Roboto&family=Russo+One&display=swap');
+
+.font1 {font-family: 'Russo One', sans-serif; color: green;}
+.font2 {font-family: 'Lobster', cursive;}
+.font3 {font-family: 'Qahiri', sans-serif;}
+.font4 {font-family: 'Permanent Marker', cursive;}
+.font5 {font-family: 'Festive', cursive;}
+
+.num1 {font-size: 20px; color: red; float: left; padding: 5px;}
+.num2 {font-size: 25px; color: green; float: left; padding: 5px;}
+.num3 {font-size: 30px; color: yellow; float: left; padding: 5px;}
+.num4 {font-size: 35px; color: pink; float: left; padding: 5px;}
+.num5 {font-size: 40px; color: magenta; float: left; padding: 5px;}
+.num6 {font-size: 40px; color: blue; float: left; padding: 5px;}
+.num7 {font-size: 35px; color: black; float: left; padding: 5px;}
+.num8 {font-size: 30px; color: cyan; float: left; padding: 5px;}
+.num9 {font-size: 25px; color: grey; float: left; padding: 5px;}
+.num10 {font-size: 20px; color: brown; float: left; padding: 5px;}

@@ -28,3 +28,27 @@ p {
 h1 {
   font-size: 44px;
 }
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  tr:hover {background-color: yellow;}
+}
+
+th {
+  border: 1px solid black;
+  background-color: #F00000;
+
+}
+
+td {
+  border: 1px solid black;
+}
+
+tr {
+  hover {background-color: yellow;}
+}
+
+tr:nth-child(even) {
+  background-color: #FFF000;
+}
