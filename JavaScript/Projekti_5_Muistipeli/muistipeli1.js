@@ -17,6 +17,7 @@ var valtti;
 
 // varsinaisen taulukon luonti-funktio, jota kutsutaan HTML:n onload-komennolla
 function luoTaulukko(X,Y) {
+document.getElementById('pelialue').innerHTML = "";
 
 var ruudut = X*Y;
 console.log(ruudut);
